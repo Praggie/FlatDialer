@@ -59,7 +59,9 @@ An example of a separate view to prevent deep nested xml layout files
 
 
 </LinearLayout>
-```  
+```    
+
+```xml
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
