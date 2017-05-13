@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="libphonenumber-8.4.3-javadoc">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/libphonenumber-8.4.3-javadoc.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
